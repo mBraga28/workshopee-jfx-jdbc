@@ -31,5 +31,5 @@ nbbuild/
 dist/
 nbdist/
 
-# Eclipse
+# IntelliJ IDEA
 .settings/
